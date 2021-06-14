@@ -1,4 +1,4 @@
-Exécution de l'IHM
+Exï¿½cution de l'IHM
 
-    1) en exécutant la méthode main
-    2) en créant une instance de cette classe
+    1) en exï¿½cutant la mï¿½thode main
+    2) en crï¿½ant une instance de cette classe
